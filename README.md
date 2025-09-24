@@ -18,4 +18,4 @@ Icons by [Uicons](https://www.flaticon.com/uicons)
 
 * Select `Rose-Pine` from the `Icon Theme` dropdown list:
 
-![Volume Icon Select Theme](rose-pine-volume-icon-preferences-select.gif)
+![Volume Icon Select Theme](rose-pine-volume-icon-preferences-select.jpg)
