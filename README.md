@@ -6,6 +6,14 @@
 
 Icons by [Uicons](https://www.flaticon.com/uicons)
 
+## Preview
+
+![Dark Rose Pine Theme](dark-rose-pine-volume-icon.gif)
+
+![Light Rose Pine Theme](light-rose-pine-volume-icon.gif)
+
+![Rose Pine Theme](rose-pine-volume-icon.gif)
+
 ## How to install:
 
 1. Move the `Rose-Pine` folder to the `Volume Icon` themes folder:
